@@ -62,15 +62,9 @@ A drillthrough page (**Employee Detail**) lets users right-click any department 
 
 
 
-**Executive Overview**
-![Executive Overview](page 1.png)
-
-**Attrition Drivers**
-![Attrition Drivers](page 2.png)
-
-**Department & Role Deep Dive**
-![Deep Dive](page 3.png)
-
+![Executive Overview](page1.png)
+![Drivers](page2.png)
+![Deep Dive](page3.png)
 
 
 **Author:** Raeha Hanif
